@@ -1,3 +1,22 @@
+# React Simple ToDo (localStorage)
+ReactとブラウザのlocalStorageを使ったシンプルなToDo管理アプリです。    
+同じデバイス・同じブラウザであれば、ページを閉じたり再起動してもToDoは保持されます。
+
+## 機能
+- ToDoの追加<br>
+- 各ToDoのチェックボックスで完了/未完了を切り替え（完了時はテキストに取り消し線）<br>
+- ToDoの削除<br>
+- 検索ボックスの入力値を含むToDo のみを絞り込み表示（部分一致）<br>
+
+## 使い方
+1. 入力欄にToDoを入力して送信ボタンを押すことで、ToDoを追加できます。 
+2. チェックボックスで完了/未完了を切り替えられます。  
+3. 不要な ToDo は削除ボタンで削除できます。
+4. 検索ボックスに値を入力すると、その文字列を含むToDoだけが表示されます。
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
