@@ -14,7 +14,7 @@ ReactとブラウザのlocalStorageを使ったシンプルなToDo管理アプ�
 3. 不要な ToDo は削除ボタンで削除できます。
 4. 検索ボックスに値を入力すると、その文字列を含むToDoだけが表示されます。
 
-
+<br><br><br>
 
 
 # Getting Started with Create React App
